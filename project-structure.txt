@@ -1,0 +1,42 @@
+codesewa-hackathon/
+├── app/
+│   ├── layout.tsx
+│   └── page.tsx
+├── components/
+│   ├── ui/
+│   │   ├── button.tsx
+│   │   ├── card.tsx
+│   │   ├── input.tsx
+│   │   ├── badge.tsx
+│   │   ├── toast.tsx
+│   │   ├── toaster.tsx
+│   │   └── use-toast.ts
+│   ├── about-section.tsx
+│   ├── faq-section.tsx
+│   ├── floating-action-button.tsx
+│   ├── footer.tsx
+│   ├── hackathon-tracks.tsx
+│   ├── hero-section.tsx
+│   ├── navigation.tsx
+│   ├── prizes-section.tsx
+│   ├── problem-carousel.tsx
+│   ├── registration-counter.tsx
+│   ├── schedule-timeline.tsx
+│   └── theme-provider.tsx
+├── lib/
+│   └── utils.ts
+├── public/
+│   └── images/
+│       ├── ai-healthcare.jpg
+│       ├── smart-water.jpg
+│       ├── edtech-accessibility.jpg
+│       └── blockchain-food.jpg
+├── styles/
+│   └── globals.css
+├── .gitignore
+├── next.config.js
+├── package.json
+├── README.md
+├── tailwind.config.js
+└── tsconfig.json
+
